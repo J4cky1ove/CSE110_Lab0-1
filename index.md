@@ -6,6 +6,7 @@
 - This site was built using [GitHub Pages](https://J4cky1ove.github.io/CSE110_Lab0-1)
 
 > Jacky as a programmer
+> 
 1. implement Huffman coding tree data structure in CSE 100
 2. implement Krushal's minimum spanning tree data structure in CSE 100
 3. implement Prim's minimum spanning tree data structure in CSE 100
