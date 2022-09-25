@@ -1,5 +1,6 @@
 # Jacky's User Page
 
+### Notice
 - You may use `git clone` to clone this to your local machine
 - You may want to read my [readme file](README.md)
 - This site was built using [GitHub Pages](https://J4cky1ove.github.io/CSE110_Lab0-1)
@@ -11,13 +12,11 @@
 
 > Jacky as myself
 
-## Jacky
-
 ![Jacky Profile](profile.jpeg "profile")
 
 *This is me when I was in childhood*
 
-This is the course I have taken or have not yet
+### Course List
 - [x] CSE 11 -- A
 - [x] CSE 12 -- A+
 - [x] CSE 15L -- A
