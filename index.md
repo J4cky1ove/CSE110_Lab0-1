@@ -1,24 +1,17 @@
 # Jacky's User Page
 
+- You may use `git clone` to clone this to your local machine
+- You may want to read my [readme file](README.md)
+- This site was built using [GitHub Pages](https://J4cky1ove.github.io/CSE110_Lab0-1)
+
 ![Jacky Profile](profile.jpeg "profile")
 
 *This is me when I was in childhood*
 
-You may use `git clone` to clone this to your local machine
+<a id="section_link"><a href="#section_link"> > Jacky as a programmer</a></a>
 
-This site was built using [GitHub Pages](https://github.com/J4cky1ove/CSE110_Lab0-1.git)
 
-> Jacky as a programmer
-
-<a id="section_link"><a href="#section_link">This is a section link.</a></a>
-
-This is my [readme file](README.md)
-
-> Jacky as myself
-
-- unorder1
-- unorder2
-- unorder3
+<a id="section_link"><a href="#section_link"> > Jacky as myself</a></a>
 
 1. order1
 2. order2
