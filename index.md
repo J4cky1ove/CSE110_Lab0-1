@@ -19,7 +19,7 @@
 
 <img src="Lego.jpeg" alt="Lego" width="180"/>
 
-*This is the singer Jay zhou made by Lego*
+*This is the my favorite singer Jay Zhou made by Lego*
 
 ### Course List
 - [x] CSE 11 -- A
