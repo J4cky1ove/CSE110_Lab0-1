@@ -13,11 +13,11 @@
 
 > Jacky as myself
 
-<img src="profile.jpeg" alt="profile" width="100"/>
+<img src="profile.jpeg" alt="profile" width="180"/>
 
 *This is me when I was in childhood*
 
-<img src="Lego.jpeg" alt="Lego" width="100"/>
+<img src="Lego.jpeg" alt="Lego" width="180"/>
 
 *This is the singer Jay zhou made by Lego*
 
