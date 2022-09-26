@@ -13,11 +13,12 @@
 
 > Jacky as myself
 
-![Jacky Profile](profile.jpeg "profile" =20x20)
+<img src="profile.jpeg" alt="profile" width="20"/>
 
 *This is me when I was in childhood*
 
-![Lego](Lego.jpeg "Lego" =20x20)
+<img src="Lego.jpeg" alt="Lego" width="20"/>
+
 *This is the singer Jay zhou made by Lego*
 
 ### Course List
